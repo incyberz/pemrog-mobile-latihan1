@@ -90,6 +90,11 @@ export default function Home() {
         <h1 className="text-2xl font-bold text-center text-gray-800 mb-6">
           Data Mahasiswa
         </h1>
+        <p className="mb-2 text-gray-600 text-center">
+          Latihan Dual UI dengan CSS Media Query. Jika 1024px atau lebih maka
+          tampilan memakai tag table, jika tidak maka UI memakai grid system
+          tailwind
+        </p>
 
         {/* UI Grid untuk Mobile */}
         {isMobile ? (
