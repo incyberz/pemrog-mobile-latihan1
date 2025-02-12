@@ -76,7 +76,7 @@ export default function Home() {
       nama: "Erwin",
       gender: "L",
       prodi: "Akuntansi",
-      kelas: "AK-4E",
+      kelas: "AK-4F",
       semester: 8,
       alamat: "Medan",
       hobby: "Olahraga",
