@@ -82,6 +82,18 @@ export default function Home() {
       hobby: "Olahraga",
       citaCita: "Akuntan Publik",
     },
+    {
+      id: 6,
+      nim: "220166",
+      nama: "Fahmi",
+      gender: "L",
+      prodi: "Akuntansi",
+      kelas: "AK-4F",
+      semester: 6,
+      alamat: "Medan",
+      hobby: "Olahraga",
+      citaCita: "Manager",
+    },
   ];
 
   return (
